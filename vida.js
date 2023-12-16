@@ -69,7 +69,7 @@ tarjeta1.disabled = true;
     segundoResultado = numeros [id];
     tarjeta2.innerHTML = segundoResultado;
 
-    // Deshabilitad segundo boton
+    // Deshabilitad segundo boton.
     tarjeta2.disabled= true;
     
     // Incrementar movimientos
